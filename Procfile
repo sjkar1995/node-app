@@ -1,1 +1,1 @@
-web: npm newsteller.js
+web: npm start
