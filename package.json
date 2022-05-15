@@ -4,7 +4,7 @@
   "description": "",
   "main": "newsteller.js",
   "scripts": {
-    "start": "newsteller.js",
+    "start": "node newsteller.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
